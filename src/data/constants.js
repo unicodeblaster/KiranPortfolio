@@ -332,7 +332,7 @@ export const projects = [
     description:
       "Ganna is a web app that allows users to discover and listen to music from a wide range of genres and artists. Users can create personalized playlists, follow their favorite artists, and explore curated playlists and recommendations based on their listening habits.",
     image:
-      "https://drive.google.com/file/d/1xMmKEnUG_noOJYCy1sebVf4Bwj5LUxNW/view?usp=drive_link",
+      "https://private-user-images.githubusercontent.com/103228257/346690964-61e3bd7a-d7bb-4e4d-a91a-b86628d6964b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA0NjQ5NzQsIm5iZiI6MTcyMDQ2NDY3NCwicGF0aCI6Ii8xMDMyMjgyNTcvMzQ2NjkwOTY0LTYxZTNiZDdhLWQ3YmItNGU0ZC1hOTFhLWI4NjYyOGQ2OTY0Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOFQxODUxMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMTE2N2JlMTQ5MTI4NTc2ODIzZTgyOGY2NWQxYWIzMDFjYzdjYWQ3MDA0ZTBkOGY4N2UyYmRkNjEzYzE1MWJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.yfgUJrMzYWVGKu7jr6WrRHoE10w88hJGpWIiOdClEhg",
     tags: ["React Js", "API", "JavaScript", "Html","Bootstrap"],
     category: "web app",
     github: "https://github.com/unicodeblaster/Simple-Ganna-App",
