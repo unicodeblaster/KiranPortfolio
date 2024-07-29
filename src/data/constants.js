@@ -314,7 +314,7 @@ export const projects = [
 
   {
     id: 4,
-    title: "Resume Builder",
+    title: "Algo Visualiser",
    
     description:"Algorithm visualizer is a react base web app where we can visualize and play with algorithm.",
     image:
@@ -340,16 +340,16 @@ export const projects = [
  
   {
     id: 6,
-    title: "Ganna App",
+    title: "Resume Builder Web App",
    
     description:
-      "Ganna is a web app that allows users to discover and listen to music from a wide range of genres and artists. Users can create personalized playlists, follow their favorite artists, and explore curated playlists and recommendations based on their listening habits.",
+      "Resume Build This project is a web application that allows users to create and customize their own resumes using JavaScript, HTML, CSS, and PHP.",
     image:
-      "https://private-user-images.githubusercontent.com/103228257/346690964-61e3bd7a-d7bb-4e4d-a91a-b86628d6964b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA0NjQ5NzQsIm5iZiI6MTcyMDQ2NDY3NCwicGF0aCI6Ii8xMDMyMjgyNTcvMzQ2NjkwOTY0LTYxZTNiZDdhLWQ3YmItNGU0ZC1hOTFhLWI4NjYyOGQ2OTY0Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOFQxODUxMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMTE2N2JlMTQ5MTI4NTc2ODIzZTgyOGY2NWQxYWIzMDFjYzdjYWQ3MDA0ZTBkOGY4N2UyYmRkNjEzYzE1MWJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.yfgUJrMzYWVGKu7jr6WrRHoE10w88hJGpWIiOdClEhg",
-    tags: ["React Js", "API", "JavaScript", "Html","Bootstrap"],
+      "https://private-user-images.githubusercontent.com/103228257/346315650-357b6eab-3898-4f8f-b702-57e3d1e3034c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIyNDcxNDMsIm5iZiI6MTcyMjI0Njg0MywicGF0aCI6Ii8xMDMyMjgyNTcvMzQ2MzE1NjUwLTM1N2I2ZWFiLTM4OTgtNGY4Zi1iNzAyLTU3ZTNkMWUzMDM0Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyOVQwOTU0MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZjhlMTM5ZWZiODlkYWQyOGY2YjdjNjhkNDQwODFkZjM5Yjc5YjVlZWI4MjZmZmNmNzMxMTkyOTc5ZTQwYzMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kuf1cWMuARgVsH7mnVxxwXbARFqQJmXEriUCK7sR2QE",
+    tags: ["Html", "CSS", "JavaScript", "PHP","Bootstrap,"Mysql"],
     category: "web app",
-    github: "https://github.com/unicodeblaster/Simple-Ganna-App",
-    webapp: "https://ganna-webapp.netlify.app",
+    github: "https://github.com/unicodeblaster/resume-build",
+    webapp: "https://autoresumegenerator.netlify.app/",
   },
  
  
