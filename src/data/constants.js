@@ -4,7 +4,7 @@ export const Bio = {
     "Front End Developer",
     "Full Stack Developer", 
     "UI/UX Designer",
-    "Finacial Advisor"
+    "MERN Stack Developer"
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -316,13 +316,27 @@ export const projects = [
     id: 4,
     title: "Resume Builder",
    
-    description:"Our project utilizes a template-based approach, allowing users to choose from a variety of professionally-designed resume templates to suit their individual preferences and industry standards. The tool also offers customization options, such as font styles, colors, and layout adjustments, to help users create a unique and visually appealing resume.",
+    description:"Algorithm visualizer is a react base web app where we can visualize and play with algorithm.
+## Algorithms - Bubble Sort - Quick Sort - Singly Linked List - DFS - Dijkstra ## Prerequisite - Basic coding knowledge - Some concept about data structure and algorithm - Mathematices ## Project Initialization - Clone the project - Change directory to AlgoVisualizer cd AlgoVisualizer - Open terminal and write npm i // or yarn add - To run the code npm start // or yarn start ### Technologies",
     image:
-      "https://private-user-images.githubusercontent.com/103228257/346315604-f5db95a2-2e5a-4b69-a5f4-b1495306a65f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA0NjQ2ODUsIm5iZiI6MTcyMDQ2NDM4NSwicGF0aCI6Ii8xMDMyMjgyNTcvMzQ2MzE1NjA0LWY1ZGI5NWEyLTJlNWEtNGI2OS1hNWY0LWIxNDk1MzA2YTY1Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOFQxODQ2MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NDc0YjFlNTk5MjczY2IwNWIwOWQ2MGI0MzZmMGM5ZWMzMDE3ZmM4ZDk5NDViMDkzZDViZDgzNmUyZGY3YWMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.V81IMEkstBGExUWbhgGlSa_OrN2ocglFbPhzSioYwb8",
-    tags: ["Html", "CSS", "JavaScript", "MySQL","Php"],
+      "https://github.com/unicodeblaster/Sorting-Algo-Visualiser--New/blob/main/Github/Gif/Gif-Full-Tutorial.gif",
+    tags: ["React", "CSS", "JavaScript", "Bootstrap"],
     category: "web app",
-    github: "https://github.com/unicodeblaster/resume-build",
-    webapp: "https://autoresumegenerator.netlify.app/",
+    github: "https://github.com/unicodeblaster/Sorting-Algo-Visualiser--New",
+    webapp: "https://github.com/unicodeblaster/Sorting-Algo-Visualiser--New",
+  },
+   {
+    id: 5,
+    title: "Sorting-Algo-Visualiser",
+   
+    description:
+      "Ganna is a web app that allows users to discover and listen to music from a wide range of genres and artists. Users can create personalized playlists, follow their favorite artists, and explore curated playlists and recommendations based on their listening habits.",
+    image:
+      "https://private-user-images.githubusercontent.com/103228257/346690964-61e3bd7a-d7bb-4e4d-a91a-b86628d6964b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA0NjQ5NzQsIm5iZiI6MTcyMDQ2NDY3NCwicGF0aCI6Ii8xMDMyMjgyNTcvMzQ2NjkwOTY0LTYxZTNiZDdhLWQ3YmItNGU0ZC1hOTFhLWI4NjYyOGQ2OTY0Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcwOFQxODUxMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMTE2N2JlMTQ5MTI4NTc2ODIzZTgyOGY2NWQxYWIzMDFjYzdjYWQ3MDA0ZTBkOGY4N2UyYmRkNjEzYzE1MWJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.yfgUJrMzYWVGKu7jr6WrRHoE10w88hJGpWIiOdClEhg",
+    tags: ["React Js", "API", "JavaScript", "Html","Bootstrap"],
+    category: "web app",
+    github: "https://github.com/unicodeblaster/Simple-Ganna-App",
+    webapp: "https://ganna-webapp.netlify.app",
   },
  
   {
