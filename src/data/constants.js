@@ -318,7 +318,7 @@ export const projects = [
    
     description:"Algorithm visualizer is a react base web app where we can visualize and play with algorithm.",
     image:
-      "https://github.com/unicodeblaster/Sorting-Algo-Visualiser--New/blob/main/Github/Gif/Gif-Full-Tutorial.gif",
+      "https://github.com/wasim15185/AlgoVisualizer/blob/main/Github/Gif/Gif-Full-Tutorial.gif?raw=true",
     tags: ["React", "CSS", "JavaScript", "Bootstrap"],
     category: "web app",
     github: "https://github.com/unicodeblaster/Sorting-Algo-Visualiser--New",
