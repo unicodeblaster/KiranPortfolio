@@ -4,7 +4,7 @@ export const Bio = {
     "Front End Developer",
     "Full Stack Developer", 
     "UI/UX Designer",
-    "MERN Stack Developer",
+    "MERN Stack Developer"
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -345,7 +345,7 @@ export const projects = [
       "Resume Build This project is a web application that allows users to create and customize their own resumes using JavaScript, HTML, CSS, and PHP.",
     image:
       "https://private-user-images.githubusercontent.com/103228257/346315650-357b6eab-3898-4f8f-b702-57e3d1e3034c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIyNDcxNDMsIm5iZiI6MTcyMjI0Njg0MywicGF0aCI6Ii8xMDMyMjgyNTcvMzQ2MzE1NjUwLTM1N2I2ZWFiLTM4OTgtNGY4Zi1iNzAyLTU3ZTNkMWUzMDM0Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyOVQwOTU0MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZjhlMTM5ZWZiODlkYWQyOGY2YjdjNjhkNDQwODFkZjM5Yjc5YjVlZWI4MjZmZmNmNzMxMTkyOTc5ZTQwYzMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kuf1cWMuARgVsH7mnVxxwXbARFqQJmXEriUCK7sR2QE",
-    tags: ["Html", "CSS", "JavaScript", "PHP","Bootstrap,"Mysql"],
+    tags: ["Html", "CSS", "JavaScript", "PHP","Bootstrap","Mysql"],
     category: "web app",
     github: "https://github.com/unicodeblaster/resume-build",
     webapp: "https://autoresumegenerator.netlify.app/",
