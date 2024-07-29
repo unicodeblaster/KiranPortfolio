@@ -341,7 +341,6 @@ export const projects = [
   {
     id: 6,
     title: "Resume Builder Web App",
-   
     description:
       "Resume Build This project is a web application that allows users to create and customize their own resumes using JavaScript, HTML, CSS, and PHP.",
     image:
