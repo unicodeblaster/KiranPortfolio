@@ -316,8 +316,7 @@ export const projects = [
     id: 4,
     title: "Resume Builder",
    
-    description:"Algorithm visualizer is a react base web app where we can visualize and play with algorithm.
-## Algorithms - Bubble Sort - Quick Sort - Singly Linked List - DFS - Dijkstra ## Prerequisite - Basic coding knowledge - Some concept about data structure and algorithm - Mathematices ## Project Initialization - Clone the project - Change directory to AlgoVisualizer cd AlgoVisualizer - Open terminal and write npm i // or yarn add - To run the code npm start // or yarn start ### Technologies",
+    description:"Algorithm visualizer is a react base web app where we can visualize and play with algorithm.",
     image:
       "https://github.com/unicodeblaster/Sorting-Algo-Visualiser--New/blob/main/Github/Gif/Gif-Full-Tutorial.gif",
     tags: ["React", "CSS", "JavaScript", "Bootstrap"],
@@ -327,7 +326,7 @@ export const projects = [
   },
    {
     id: 5,
-    title: "Sorting-Algo-Visualiser",
+    title: "Gana Web App",
    
     description:
       "Ganna is a web app that allows users to discover and listen to music from a wide range of genres and artists. Users can create personalized playlists, follow their favorite artists, and explore curated playlists and recommendations based on their listening habits.",
