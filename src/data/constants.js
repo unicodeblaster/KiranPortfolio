@@ -25,6 +25,11 @@ export const skills = [
         name: "React Js",
         image:"https://tse1.mm.bing.net/th?id=OIP.IyzEkoSpyLZfovs2RR5lYwHaE8&pid=Api&P=0&h=180"
       },
+         {
+        name: "Angular JS",
+        image:
+          "https://tse2.mm.bing.net/th?id=OIP.JWcKdjkJlUbPCu8Z2lKHzgHaH3&pid=Api&P=0&h=180",
+      },
       {
         name: "Redux",
         image:
@@ -151,6 +156,12 @@ export const skills = [
         name: "Figma",
         image: "https://tse4.mm.bing.net/th?id=OIP.rAD6e2doKGrUQoPkWV3QfgHaHa&pid=Api&P=0&h=180"
       },
+      
+      {
+        name: "Docker",
+        image: "https://tse2.mm.bing.net/th?id=OIP.kY-iKNMB6IHDzoeQlMW3fAHaEK&pid=Api&P=0&h=180"
+      },
+      
     ],
   },
 ];
