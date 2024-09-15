@@ -370,7 +370,7 @@ export const projects = [
       "https://media.licdn.com/dms/image/v2/D5622AQH1AFuSkauPsQ/feedshare-shrink_800/feedshare-shrink_800/0/1726342355541?e=1729123200&v=beta&t=VOKgqmFxt1Omk60NkQVhaR8G8jWONd5MqkIa1UBMjqE",
     tags: ["Angular", "Nodejs", "JavaScript", "Express","Bootstrap","Mongodb","github","Postman"],
     category: "web app",
-    github: "https://github.com/unicodeblaster/Angular-Login",
+    github: "https://github.com/unicodeblaster/Angular-Login-",
   
   },
   
