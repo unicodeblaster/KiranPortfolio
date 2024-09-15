@@ -361,6 +361,19 @@ export const projects = [
     github: "https://github.com/unicodeblaster/resume-build",
     webapp: "https://autoresumegenerator.netlify.app/",
   },
+   {
+    id: 7,
+    title: "Login and Signup  Angular With Node API",
+    description:
+      "Develop a seamless user authentication system using Angular for the frontend and Node API for the backend. Implement user registration and login functionality, ensuring secure data storage and validation. Enable users to sign up and access protected routes with ease, leveraging the power of Angular and Node",
+    image:
+      "https://media.licdn.com/dms/image/v2/D5622AQH1AFuSkauPsQ/feedshare-shrink_800/feedshare-shrink_800/0/1726342355541?e=1729123200&v=beta&t=VOKgqmFxt1Omk60NkQVhaR8G8jWONd5MqkIa1UBMjqE",
+    tags: ["Angular", "Nodejs", "JavaScript", "Express","Bootstrap","Mongodb","github","Postman"],
+    category: "web app",
+    github: "https://github.com/unicodeblaster/Angular-Login",
+  
+  },
+  
  
  
 ];
