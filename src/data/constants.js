@@ -1,10 +1,11 @@
 export const Bio = {
   name: "Kiran Nikam",
   roles: [
-    "Front End Developer",
-    "Full Stack Developer", 
-    "UI/UX Designer",
-    "MERN Stack Developer"
+    "Data Analyst",
+    "Data Science",
+    "Business Analyst",
+    "Equity Analyst",
+    "Full Stack Developer"
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -104,16 +105,21 @@ export const skills = [
     ],
   },
   {
-    title: "Android",
+    title: "Data Analyst",
     skills: [
       {
-        name: "Java",
+        name: "Power Bi",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+          "https://up.yimg.com/ib/th?id=OIP.Oxo-u9GMK3zbEM5h-FiVnQHaEK&pid=Api&rs=1&c=1&qlt=95&w=196&h=110",
       },
     
       {
-        name: "Android Studio",
+        name: "Tableu",
+        image:
+          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+      },
+       {
+        name: "Excel",
         image:
           "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
       },
